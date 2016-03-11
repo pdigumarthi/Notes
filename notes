@@ -1,3 +1,4 @@
 Verbose class loading:
 java -verbose:class
+# Show all the properties like vendor etc.
 java -XshowSettings:properties -version
