@@ -1,2 +1,3 @@
 Verbose class loading:
 java -verbose:class
+java -XshowSettings:properties -version
