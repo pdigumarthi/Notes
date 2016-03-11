@@ -1,0 +1,2 @@
+Verbose class loading:
+java -verbose:class
