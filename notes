@@ -2,3 +2,8 @@ Verbose class loading:
 java -verbose:class
 # Show all the properties like vendor etc.
 java -XshowSettings:properties -version
+
+
+http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod
+
+http://martinfowler.com/bliki/CommandQuerySeparation.html
