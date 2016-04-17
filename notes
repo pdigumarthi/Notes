@@ -7,3 +7,6 @@ java -XshowSettings:properties -version
 http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod
 
 http://martinfowler.com/bliki/CommandQuerySeparation.html
+
+
+https://technicaltesting.wordpress.com/2012/09/24/using-junit-category-and-maven-profiles-to-get-stable-test-suites/
